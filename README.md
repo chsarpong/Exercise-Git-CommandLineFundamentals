@@ -17,3 +17,4 @@
 + To remove files  from staging area, type git reset calc.py, type git status, type git reset (to remove), type add -a
 + To clone a remote repo, type git clone <url> <where to clone> 
 + Video Link https://youtu.be/HVsySz-h9r4
++ Web Link to working exercise, go to setting - scroll down to GitHub pages  https://chsarpong.github.io/Exercise-Git-CommandLineFundamentals/
