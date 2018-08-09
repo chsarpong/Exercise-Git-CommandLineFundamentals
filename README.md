@@ -4,4 +4,4 @@
 + Distributed Version control is safer (in terms of back ups) compared to Central version control system (no back ups)
 + After installing Git (if you have) -Open Git Bash - Type git --version
 + I have git version 2.18.0 windows.1 installed
-Set CONFIG VALUES bacause it enables developers to identify each other when changes and merges occur
++ Set CONFIG VALUES bacause it enables developers to identify each other when changes and merges occur
