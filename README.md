@@ -1,3 +1,7 @@
 # Exercise-Git-CommandLineFundamentals
 + Get Git installed(if you don't have), we will cover basic commands
 + Git is a distributed version control system and not a central version control system
++ Distributed Version control is safer (in terms of back ups) compared to Central version Control (no back ups)
++ After installing Git (if you have) -Open Git Bash - Type git --version
++ I have git version 2.18.0 windows.1 installed
+Set CONFIG VALUES bacause it enables developers to identify each other when changes and merges occur
