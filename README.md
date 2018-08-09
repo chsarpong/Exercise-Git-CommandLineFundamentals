@@ -11,3 +11,6 @@
 + NEED HELP type get help config or git config --help
 + Getting started (two common scenario) i. Existing project which i want to start tracking. ii Initialize a repository from existing code
 + iExample type ls, type cd Reponame, type ls - la. To track type git init, type ls - la. To stop tracking type git rm - rf .git, type ls - la, type git init, type ls - la.
++ iiExample type git status, type touch.gitignore. To add git ignore file; type .DS_store, type .project, type *.pyc. 
+To check saved gitignore file, type git status
+To add files to staging area, type git add .gitignore, type git status, type git add -A (to add to staging), type git status
