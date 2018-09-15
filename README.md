@@ -1,5 +1,5 @@
 #How can I create a working repo on GitHub and host a webapp/site on GitHub Pages
-https://github.com/chsarpong/bootstrap-4.1.3-Exercise05082018#bootstrap-413-exercise05082018---question--how-can-i-create-a-working-repo-on-github-and-host-a-webappsite-on-github-pages
+Link https://github.com/chsarpong/bootstrap-4.1.3-Exercise05082018#bootstrap-413-exercise05082018---question--how-can-i-create-a-working-repo-on-github-and-host-a-webappsite-on-github-pages
 # Exercise-Git-CommandLineFundamentals
 + Get Git installed(if you don't have), we will cover basic commands
 + Git is a Distributed version control system and not a Central version control system
