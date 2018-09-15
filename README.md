@@ -19,3 +19,4 @@
 + Video Link https://youtu.be/HVsySz-h9r4
 + Web Link to working exercise, go to Settings - scroll down to GitHub pages  https://chsarpong.github.io/Exercise-Git-CommandLineFundamentals/
 + Basic Git command List - http://www.codebind.com/linux-tutorials/basic-git-commands-list/
+# How to create a branch from master branch in git
